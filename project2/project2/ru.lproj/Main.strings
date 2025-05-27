@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UCg-N4-rlf"; */
+"UCg-N4-rlf.text" = "Текст";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "UbN-Qb-PiJ"; */
+"UbN-Qb-PiJ.configuration.title" = "Обновить";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UbN-Qb-PiJ"; */
+"UbN-Qb-PiJ.normalTitle" = "Обновить";

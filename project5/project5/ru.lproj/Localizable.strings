@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  project5
+
+  Created by Shvarsman on 1.05.25.
+  
+*/
+"app.title" = "Калькулятор квадратичной функции";
+"field.a" = "Введите A";
+"field.c" = "Введите C";
+"button.calculate" = "Вычислить";
+"segment.integer" = "Целое";
+"segment.float" = "Дробное";
+"label.result" = "Результат: ";
+"placeholder" = "0";

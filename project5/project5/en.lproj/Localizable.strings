@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  project5
+
+  Created by Shvarsman on 1.05.25.
+  
+*/
+"app.title" = "Quadratic Function Calculator";
+"field.a" = "Enter A";
+"field.c" = "Enter C";
+"button.calculate" = "Calculate";
+"segment.integer" = "Integer";
+"segment.float" = "Float";
+"label.result" = "Result: ";
+"placeholder" = "0";

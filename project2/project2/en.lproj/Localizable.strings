@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  project2
+
+  Created by Shvarsman on 29.04.25.
+  
+*/
+"temperature_info" = "Temperature in %1$@ is %2$d°C";
+"city_not_found" = "City not found";
+"Enter city name" = "Enter city name";
+"City name" = "City name";
+"OK" = "OK";
+"Cancel" = "Cancel";
+
+"Achievements of Victor Ananev" = "Olympic gold medalist in weightlifting";
+"Achievements of Anatoly Karpenko" = "World champion in wrestling";
+"Achievements of Maria Lasitskene" = "World record holder in high jump";
+"Achievements of Cristiano Ronaldo" = "Five-time Ballon d'Or winner";

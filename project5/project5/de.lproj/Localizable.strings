@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  project5
+
+  Created by Shvarsman on 1.05.25.
+  
+*/
+"app.title" = "Quadratische Funktion Berechnung";
+"field.a" = "A eingeben";
+"field.c" = "C eingeben";
+"button.calculate" = "Berechnen";
+"segment.integer" = "Ganzzahlig";
+"segment.float" = "Dezimal";
+"label.result" = "Ergebnis: ";
+"placeholder" = "0";

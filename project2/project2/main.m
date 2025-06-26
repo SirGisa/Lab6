@@ -2,7 +2,7 @@
 //  main.m
 //  project2
 //
-//  Created by Shvarsman on 25.04.25.
+//  Created by georg on 28.04.25.
 //
 
 #import <UIKit/UIKit.h>

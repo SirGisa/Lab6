@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  project3
 //
-//  Created by Shvarsman on 1.05.25.
+//  Created by georg on 1.05.25.
 //
 
 import UIKit

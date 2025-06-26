@@ -2,7 +2,7 @@
 //  RGBullsEyeTests.swift
 //  RGBullsEyeTests
 //
-//  Created by Shvarsman on 30.04.25.
+//  Created by georg on 30.04.25.
 //
 
 import XCTest

@@ -2,7 +2,7 @@
 //  project2UITests.m
 //  project2UITests
 //
-//  Created by Shvarsman on 25.04.25.
+//  Created by georg on 25.04.25.
 //
 
 #import <XCTest/XCTest.h>

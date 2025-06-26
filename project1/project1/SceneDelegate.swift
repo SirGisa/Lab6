@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  project1
 //
-//  Created by Shvarsman on 23.04.25.
+//  Created by georg on 28.04.25.
 //
 
 import UIKit

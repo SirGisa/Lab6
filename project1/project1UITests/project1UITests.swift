@@ -2,7 +2,7 @@
 //  project1UITests.swift
 //  project1UITests
 //
-//  Created by Shvarsman on 23.04.25.
+//  Created by georg on 28.04.25.
 //
 
 import XCTest

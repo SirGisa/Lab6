@@ -2,7 +2,7 @@
 //  Sportsperson.h
 //  project2
 //
-//  Created by Shvarsman on 29.04.25.
+//  Created by georg on 29.04.25.
 //
 
 
